@@ -1,0 +1,1119 @@
+#main {
+  position: relative;
+  width: 1600px;
+  height: 6038px;
+
+  background: #FFFFFF;
+}
+
+
+
+#img1 {
+  position: absolute;
+  width: 119px;
+  height: 111px;
+  left: 0px;
+  top: 0px;
+}
+
+#logo {
+
+  position: absolute;
+  width: 295px;
+  height: 85px;
+  left: 130px;
+  top: 10px;
+
+}
+
+#abt {
+  position: absolute;
+  width: 74px;
+  height: 21px;
+  left: 998px;
+  top: 42px;
+
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 21px;
+  color: #000000;
+  text-decoration: none;
+}
+
+#serv {
+  position: absolute;
+  width: 68px;
+  height: 21px;
+  left: 1107px;
+  top: 42px;
+
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 21px;
+  text-decoration: none;
+  color: #000000;
+}
+
+#team {
+  position: absolute;
+  width: 45px;
+  height: 21px;
+  left: 1210px;
+  top: 42px;
+
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 21px;
+  color: #000000;
+  text-decoration: none;
+}
+
+#clients {
+  position: absolute;
+  width: 56px;
+  height: 21px;
+  left: 1290px;
+  top: 42px;
+
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 21px;
+  text-decoration: none;
+
+  color: #000000;
+}
+
+#contact {
+  position: absolute;
+  width: 89px;
+  height: 21px;
+  left: 1381px;
+  top: 42px;
+
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 21px;
+  text-decoration: none;
+  color: #000000;
+}
+
+#asset2 {
+  position: absolute;
+  width: 359px;
+  height: 376px;
+  left: 1318px;
+  top: -14px;
+}
+
+
+#asset3 {
+  position: absolute;
+  width: 266px;
+  height: 580px;
+  left: -29px;
+  top: 325px;
+
+  background: url(Assets3.png);
+}
+
+#asset4 {
+
+  position: absolute;
+  width: 207px;
+  height: 249px;
+  left: 1456px;
+  top: 645px;
+
+}
+
+#vec1 {
+  position: absolute;
+  width: 643.63px;
+  height: 438.44px;
+  left: 142.19px;
+  top: 466.75px;
+
+  background: url(VectorSmartObject21.png);
+}
+
+#text1 {
+  position: absolute;
+  width: 459px;
+  height: 198px;
+  left: 926px;
+  top: 277px;
+
+  font-family: 'Rubik';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 56px;
+  line-height: 66px;
+
+  color: #000000;
+}
+
+#text2 {
+
+  position: absolute;
+  width: 544px;
+  height: 67px;
+  left: 926px;
+  top: 525px;
+
+  font-family: 'Rubik';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 21px;
+
+  color: #2C2C2C;
+}
+
+
+/* About us */
+
+#aboutus {
+  position: absolute;
+  width: 612px;
+  height: 408px;
+  left: 120px;
+  top: 1074px;
+}
+
+#text3 {
+
+  position: absolute;
+  width: 238px;
+  height: 57px;
+  left: 812px;
+  top: 983px;
+
+  font-family: 'Rubik';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 48px;
+  line-height: 57px;
+}
+
+#rectangele1 {
+
+  position: absolute;
+  width: 156px;
+  height: 7px;
+  left: 812px;
+  top: 1042px;
+
+  background: #A9A9A9;
+  border-radius: 4px;
+}
+
+#rectangele2 {
+  position: absolute;
+  width: 238px;
+  height: 0px;
+  left: 812px;
+  top: 1046px;
+
+}
+
+#text4 {
+  position: absolute;
+  width: 658px;
+  height: 127px;
+  left: 812px;
+  top: 1070px;
+
+  font-family: 'Rubik';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 27px;
+
+  color: #2C2C2C;
+}
+
+#eng {
+  position: absolute;
+  width: 40px;
+  height: 41px;
+  left: 812px;
+  top: 1237px;
+
+
+}
+
+#engHeading {
+  position: absolute;
+  width: 163px;
+  height: 28px;
+  left: 812px;
+  top: 1303px;
+
+  font-family: 'Rubik';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 28px;
+
+
+  color: #000000;
+}
+
+#engText {
+  position: absolute;
+  width: 273px;
+  height: 89px;
+  left: 812px;
+  top: 1346px;
+
+  font-family: 'Rubik';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 27px;
+
+  color: #2C2C2C;
+}
+
+
+#comm {
+
+  position: absolute;
+  width: 43px;
+  height: 41px;
+  left: 1153px;
+  top: 1237px;
+
+  background: url(coomunicationicon.png);
+}
+
+#commHeading {
+  position: absolute;
+  width: 216px;
+  height: 28px;
+  left: 1153px;
+  top: 1303px;
+
+  font-family: 'Rubik';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 28px;
+
+
+  color: #000000;
+
+}
+
+#commText {
+  position: absolute;
+  width: 273px;
+  height: 112px;
+  left: 1158px;
+  top: 1346px;
+
+  font-family: 'Rubik';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 27px;
+
+  color: #2C2C2C;
+}
+
+a {
+  text-decoration: none
+}
+
+#asset5 {
+
+  position: absolute;
+  width: 366px;
+  height: 431px;
+  left: -52px;
+  top: 1468px;
+
+}
+
+#text5 {
+
+  position: absolute;
+  width: 233px;
+  height: 57px;
+  left: 684px;
+  top: 1587px;
+
+  font-family: 'Rubik';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 48px;
+  line-height: 57px;
+}
+
+#reactangle4 {
+  position: absolute;
+  width: 62px;
+  height: 7px;
+  left: 684px;
+  top: 1646px;
+
+  background: #A9A9A9;
+  border-radius: 4px;
+}
+
+#line2 {
+  position: absolute;
+  width: 238px;
+  height: 0px;
+  left: 684px;
+  top: 1650px;
+
+  border: 1px solid #A9A9A9;
+}
+
+#HeadEng {
+
+  position: absolute;
+  width: 290px;
+  height: 50px;
+  left: 459px;
+  top: 1746px;
+
+  font-family: 'Rubik';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 42px;
+  line-height: 50px;
+}
+
+#text6 {
+
+  position: absolute;
+  width: 523px;
+  height: 126px;
+  left: 220px;
+  top: 1816px;
+
+  font-family: 'Rubik';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  text-align: right;
+}
+
+#engVector {
+  position: absolute;
+  width: 454px;
+  height: 375px;
+  left: 902px;
+  top: 1694px;
+}
+
+#asset6 {
+
+  position: absolute;
+  width: 250px;
+  height: 431px;
+  left: 1380px;
+  top: 2147px;
+}
+
+#text7 {
+  position: absolute;
+  width: 521px;
+  height: 139px;
+  left: 220px;
+  top: 2580px;
+
+  font-family: 'Rubik';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  text-align: right;
+}
+
+#facHead {
+  position: absolute;
+  width: 279px;
+  height: 50px;
+  left: 462px;
+  top: 2510px;
+
+  font-family: 'Rubik';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 42px;
+  line-height: 50px;
+}
+
+#commVector {
+  position: absolute;
+  width: 487px;
+  height: 251px;
+  left: 259px;
+  top: 2495px;
+}
+
+#commHead1 {
+  position: absolute;
+  width: 478px;
+  height: 50px;
+  left: 916px;
+  top: 2558px;
+
+  font-family: 'Rubik';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 42px;
+  line-height: 50px;
+}
+
+#facVector {
+  position: absolute;
+  width: 481px;
+  height: 386px;
+  left: 899px;
+  top: 2440px;
+}
+
+#text8 {
+  position: absolute;
+  width: 521px;
+  height: 139px;
+  left: 220px;
+  top: 2580px;
+
+  font-family: 'Rubik';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  text-align: right;
+
+  color: #2C2C2C;
+}
+
+#asset7 {
+  position: absolute;
+  width: 259px;
+  height: 471px;
+  left: -52px;
+  top: 2633px;
+}
+
+#conVector {
+  position: absolute;
+  width: 523px;
+  height: 363px;
+  left: 220px;
+  top: 2886px;
+}
+
+#conRes {
+  position: absolute;
+  width: 407px;
+  height: 100px;
+  left: 926px;
+  top: 3006px;
+
+  font-family: 'Rubik';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 42px;
+  line-height: 50px;
+
+}
+
+#text9 {
+  position: absolute;
+  width: 454px;
+  height: 114px;
+  left: 926px;
+  top: 3126px;
+
+  font-family: 'Rubik';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 27px;
+}
+
+#asset8 {
+  position: absolute;
+  width: 336px;
+  height: 431px;
+  left: 1379.75px;
+  top: 3101px;
+
+}
+
+#trainVector {
+  position: absolute;
+  width: 454px;
+  height: 349px;
+  left: 926px;
+  top: 3309px;
+}
+
+#trainHead {
+  position: absolute;
+  width: 478px;
+  height: 50px;
+  left: 264px;
+  top: 3328px;
+
+  font-family: 'Rubik';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 42px;
+  line-height: 50px;
+}
+
+#text10 {
+  position: absolute;
+  width: 520px;
+  height: 133px;
+  left: 222px;
+  top: 3398px;
+
+  font-family: 'Rubik';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  text-align: right;
+}
+
+.zoom:hover {
+  transform: scale(1.2);
+
+}
+
+#asset9 {
+  position: absolute;
+  width: 366px;
+  height: 431px;
+  left: 0px;
+  top: 3624px;
+
+}
+
+#team1 {
+  position: absolute;
+  width: 241px;
+  height: 57px;
+  left: 685px;
+  top: 3840px;
+
+  font-family: 'Rubik';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 48px;
+  line-height: 57px;
+}
+
+#rectangle4 {
+  position: absolute;
+  width: 101px;
+  height: 7px;
+  left: 685px;
+  top: 3899px;
+
+  background: #A9A9A9;
+  border-radius: 4px;
+}
+
+#line4 {
+  position: absolute;
+  width: 241px;
+  height: 0px;
+  left: 685px;
+  top: 3903px;
+
+  border: 1px solid #A9A9A9;
+}
+
+#person1 {
+
+  position: absolute;
+  width: 278px;
+  height: 221px;
+  left: 244px;
+  top: 3936px;
+}
+
+#pname1 {
+  position: absolute;
+  width: 165px;
+  height: 28px;
+  left: 300px;
+  top: 4210px;
+
+  font-family: 'Rubik';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 28px;
+
+}
+
+#person2 {
+  position: absolute;
+  width: 278px;
+  height: 221px;
+  left: 661px;
+  top: 3937px;
+}
+
+#pname2 {
+
+  position: absolute;
+  width: 152px;
+  height: 26px;
+  left: 724px;
+  top: 4211px;
+
+  font-family: 'Rubik';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 26px;
+}
+
+#person3 {
+  position: absolute;
+  width: 276px;
+  height: 221px;
+  left: 1078px;
+  top: 3937px;
+}
+
+#pname3 {
+
+  position: absolute;
+  width: 88px;
+  height: 26px;
+  left: 1172px;
+  top: 4211px;
+
+  font-family: 'Rubik';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 26px;
+}
+
+#asset9 {
+  position: absolute;
+  width: 371.17px;
+  height: 476.12px;
+  left: 1363.23px;
+  top: 4047px;
+  /* transform: rotate(4.76deg); */
+}
+
+#projects {
+  position: absolute;
+  width: 362px;
+  height: 57px;
+  left: 674px;
+  top: 4356px;
+
+  font-family: 'Rubik';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 48px;
+  line-height: 57px;
+}
+
+#rectangle5 {
+  position: absolute;
+  width: 103px;
+  height: 7px;
+  left: 674px;
+  top: 4413px;
+
+  background: #A9A9A9;
+  border-radius: 4px;
+}
+
+#line5 {
+  position: absolute;
+  width: 362px;
+  height: 0px;
+  left: 674px;
+  top: 4417px;
+
+  border: 1px solid #A9A9A9;
+}
+
+#project1 {
+
+  position: absolute;
+  width: 554px;
+  height: 667px;
+  left: 235px;
+  top: 4447px;
+
+}
+
+#project2 {
+  position: absolute;
+  width: 554px;
+  height: 322px;
+  left: 811px;
+  top: 4447px;
+}
+
+#project3 {
+  position: absolute;
+  width: 554px;
+  height: 323px;
+  left: 811px;
+  top: 4791px;
+
+}
+
+.overlay {
+  position: absolute;
+  top: 4447px;
+
+  left: 811px;
+
+  height: 322px;
+  width: 554px;
+  opacity: 0.5;
+  transition: .5s ease;
+  background-color: #008CBA;
+}
+
+.text {
+  font-family: 'Rubik';
+  font-style: normal;
+  color: white;
+  font-size: 40px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  text-align: center;
+  font-weight: 500;
+
+}
+
+.overlay2 {
+  position: absolute;
+  width: 554px;
+  height: 323px;
+  left: 811px;
+  top: 4791px;
+  opacity: 0.5;
+  transition: .5s ease;
+  background-color: #008CBA;
+}
+
+.container:hover .overlay {
+  opacity: 1;
+}
+
+.container:hover .overlay2 {
+  opacity: 1;
+}
+
+.contauner {
+  position: relative;
+}
+
+#asset10 {
+  position: absolute;
+  width: 179px;
+  height: 404px;
+  left: -26px;
+  top: 5176px;
+}
+
+#client {
+  position: absolute;
+  width: 310px;
+  height: 57px;
+  left: 645px;
+  top: 5242px;
+
+  font-family: 'Rubik';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 48px;
+  line-height: 57px;
+}
+
+#rectangle6 {
+  position: absolute;
+  width: 104px;
+  height: 7px;
+  left: 645px;
+  top: 5301px;
+
+  background: #A9A9A9;
+  border-radius: 4px;
+}
+
+#line7 {
+  position: absolute;
+  width: 310px;
+  height: 0px;
+  left: 645px;
+  top: 5305px;
+
+  border: 1px solid #A9A9A9;
+}
+
+
+/* client logo */
+
+#client1 {
+  position: absolute;
+  width: 212px;
+  height: 161px;
+  left: 233px;
+  top: 5348px;
+}
+
+#client2 {
+  position: absolute;
+  width: 129px;
+  height: 131px;
+  left: 460px;
+  top: 5363px;
+}
+
+#client3 {
+  position: absolute;
+  width: 222px;
+  height: 62px;
+  left: 667px;
+  top: 5398px;
+}
+
+#client4 {
+  position: absolute;
+  width: 143px;
+  height: 107px;
+  left: 952px;
+  top: 5375px;
+}
+
+#client5 {
+  position: absolute;
+  width: 163px;
+  height: 63px;
+  left: 1182px;
+  top: 5397px;
+}
+
+#client6 {
+  position: absolute;
+  width: 185px;
+  height: 106px;
+  left: 233px;
+  top: 5581px;
+}
+
+#client7 {
+  position: absolute;
+  width: 268px;
+  height: 120px;
+  left: 475px;
+  top: 5574px;
+}
+
+#client8 {
+  position: absolute;
+  width: 246px;
+  height: 99px;
+  left: 799px;
+  top: 5584px;
+
+}
+
+#client9 {
+  position: absolute;
+  width: 243px;
+  height: 58px;
+  left: 1102px;
+  top: 5605px;
+}
+
+/* contact us */
+
+#contact4 {
+  position: absolute;
+  width: 1340px;
+  height: 208px;
+  left: 130px;
+  top: 5769px;
+
+  background: #BFDBFF;
+}
+
+#social {
+  position: absolute;
+  width: 49px;
+  height: 35px;
+  left: 244px;
+  top: 5811px;
+
+  font-family: 'Rubik';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 221%;
+}
+
+#explore {
+  position: absolute;
+  width: 61px;
+  height: 35px;
+  left: 491px;
+  top: 5811px;
+
+  font-family: 'Rubik';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 221%;
+}
+
+#contact5 {
+  position: absolute;
+  width: 65px;
+  height: 35px;
+  left: 731px;
+  top: 5815px;
+
+  font-family: 'Rubik';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+}
+
+#email {
+  position: absolute;
+  width: 44px;
+  height: 35px;
+  left: 1107px;
+  top: 5811px;
+
+  font-family: 'Rubik';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 221%;
+}
+
+#fb {
+  position: absolute;
+  width: 16px;
+  height: 16px;
+  left: 214px;
+  top: 5851px;
+}
+
+#link {
+  position: absolute;
+  width: 16px;
+  height: 16px;
+  left: 214px;
+  top: 5882px;
+}
+
+#search {
+  position: absolute;
+  width: 10px;
+  height: 10px;
+  left: 217px;
+  top: 5917px;
+}
+
+#socialText {
+  position: absolute;
+  width: 67px;
+  height: 93px;
+  left: 244px;
+  top: 5843px;
+
+  font-family: 'Rubik';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 31px;
+}
+
+#exploreText {
+  position: absolute;
+  width: 60px;
+  height: 93px;
+  left: 491px;
+  top: 5843px;
+
+  font-family: 'Rubik';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 31px;
+}
+
+#contactText {
+  position: absolute;
+  width: 196px;
+  height: 93px;
+  left: 731px;
+  top: 5843px;
+
+  font-family: 'Rubik';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 31px;
+}
+
+#emailText {
+  position: absolute;
+  width: 252px;
+  height: 31px;
+  left: 1107px;
+  top: 5843px;
+
+  font-family: 'Rubik';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 31px;
+}
+
+#footer {
+  position: absolute;
+  width: 346px;
+  height: 17px;
+  left: 627px;
+  top: 5999px;
+
+  font-family: 'Rubik';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 17px;
+}
